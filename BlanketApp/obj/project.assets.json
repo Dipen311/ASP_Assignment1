@@ -7156,11 +7156,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dipen\\source\\repos\\Dipen311\\ASP_Assignment1\\BlanketApp\\BlanketApp.csproj",
+      "projectUniqueName": "C:\\Users\\Dipen\\OneDrive\\Desktop\\ASP_Assignment1\\BlanketApp\\BlanketApp.csproj",
       "projectName": "BlanketApp",
-      "projectPath": "C:\\Users\\Dipen\\source\\repos\\Dipen311\\ASP_Assignment1\\BlanketApp\\BlanketApp.csproj",
+      "projectPath": "C:\\Users\\Dipen\\OneDrive\\Desktop\\ASP_Assignment1\\BlanketApp\\BlanketApp.csproj",
       "packagesPath": "C:\\Users\\Dipen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dipen\\source\\repos\\Dipen311\\ASP_Assignment1\\BlanketApp\\obj\\",
+      "outputPath": "C:\\Users\\Dipen\\OneDrive\\Desktop\\ASP_Assignment1\\BlanketApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
