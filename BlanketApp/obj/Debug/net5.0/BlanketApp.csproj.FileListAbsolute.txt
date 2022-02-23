@@ -300,3 +300,4 @@ C:\Users\Dipen\OneDrive\Desktop\ASP_Assignment1\BlanketApp\obj\Debug\net5.0\Blan
 C:\Users\Dipen\OneDrive\Desktop\ASP_Assignment1\BlanketApp\obj\Debug\net5.0\ref\BlanketApp.dll
 C:\Users\Dipen\OneDrive\Desktop\ASP_Assignment1\BlanketApp\obj\Debug\net5.0\BlanketApp.pdb
 C:\Users\Dipen\OneDrive\Desktop\ASP_Assignment1\BlanketApp\obj\Debug\net5.0\BlanketApp.genruntimeconfig.cache
+C:\Users\Dipen\OneDrive\Desktop\ASP_Assignment1\BlanketApp\obj\Debug\net5.0\Razor\Views\Home\Aboutus.cshtml.g.cs
