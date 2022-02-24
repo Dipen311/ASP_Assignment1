@@ -3,8 +3,9 @@
     "",
     "\\BlanketApp",
     "\\BlanketApp\\Views",
-    "\\BlanketApp\\Views\\Home"
+    "\\BlanketApp\\Views\\Home",
+    "\\BlanketApp\\Views\\Shared"
   ],
-  "SelectedNode": "\\BlanketApp\\Views\\Home\\Index.cshtml",
+  "SelectedNode": "\\BlanketApp\\Views\\Shared\\_Layout.cshtml",
   "PreviewInSolutionExplorer": false
 }
