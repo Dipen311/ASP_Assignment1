@@ -6,6 +6,6 @@
     "\\BlanketApp\\Views\\Home",
     "\\BlanketApp\\Views\\Shared"
   ],
-  "SelectedNode": "\\BlanketApp\\Views\\Shared\\_Layout.cshtml",
+  "SelectedNode": "\\BlanketApp\\Views\\Home\\Aboutus.cshtml",
   "PreviewInSolutionExplorer": false
 }
